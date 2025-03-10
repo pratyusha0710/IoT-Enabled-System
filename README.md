@@ -1,4 +1,4 @@
-# IoT-Enabled-System
+# SmartFoot: IoT-Enabled Intelligent Foot Over Bridge for Enhanced Safety and Accessibility
 Using sensors to receive real time data of a foot over bridge to help make predictions using Machine Learning model
 
 Sensors Used:
